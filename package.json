@@ -1,0 +1,24 @@
+{
+  "name": "reservasi-tiket-konser-",
+  "version": "1.0.0",
+  "description": "Aplikasi console reservasi tiket konser (TypeScript) - UAS Pemrograman Dasar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaykhannHfz/Reservasi-Tiket-Konser-.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/RaykhannHfz/Reservasi-Tiket-Konser-/issues"
+  },
+  "homepage": "https://github.com/RaykhannHfz/Reservasi-Tiket-Konser-#readme",
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "ts-node": "^10.9.2",
+    "typescript": "^7.0.2"
+  }
+}
