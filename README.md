@@ -11,4 +11,4 @@ npx ts-node src/index.ts
 | Nama | NIM | Akun GitHub | Bagian yang dikerjakan | Link PR utama |
 |---|---|---|---|---|
 | M. Raykhan Sabilah Hafizh| 263140700111025 | @RaykhannHfz | ... | - |
-| Nama 2 | ... | @username2 | ... | - |
+| Sahid Paramarta | 23140707111088 | @Ramarta | ... | - |
