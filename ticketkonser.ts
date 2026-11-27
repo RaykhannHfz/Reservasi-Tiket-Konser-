@@ -264,8 +264,8 @@ async function inputYaTidak(label: string): Promise<boolean> {
 }
 
 /**
- * Menampilkan pilihan kategori bernomor lalu meminta pengguna memilih.
- * @returns kategori yang dipilih pengguna
+ 
+ * @returns  kategori yang dipilih pengguna
  */
 async function pilihKategori(): Promise<Kategori> {
   console.log("Kategori tiket: 1. VIP  2. Festival  3. Tribun");
